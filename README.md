@@ -15,4 +15,4 @@ Moreover, it finally allows teams of developers and designers to organize their 
 Besides that, now designers can work together on open source projects, using design files from initial commits as a base, forking them and building upon them. Such projects could benefit the whole design community, allowing to create, reuse and evolve basic design patterns and techniques.
 
 Read more about manual version control for Sketch files with GitHub described in [my article](https://medium.com/@zhurankov/workflows-manual-version-control-for-sketch-files-with-github-df8e04f1571c)
-on Medium. It's being possible 
+on Medium. 
