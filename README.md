@@ -10,7 +10,7 @@ Extracted Sketch file contains:
 
 The .JSON format potentialy allows treating Sketch files as code, making it possible for designers to adapt all the benefits of developers’ workflow, such as sharing, collaborating, updating and reusing design files, as well as maintaining it’s version control with git on GitHub.
 
-Moreover, it finally allows teams of developers and designers to organize their work around the same repo, making it more efficient and simpler to maintain the code and update design systems.
+Therefore, it finally allows teams of developers and designers to organize their work around the same repo, making it more efficient and simpler to maintain the code and update design systems.
 
 Besides that, now designers can work together on open source projects, using design files from initial commits as a base, forking them and building upon them. Such projects could benefit the whole design community, allowing to create, reuse and evolve basic design patterns and techniques.
 
