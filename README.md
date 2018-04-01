@@ -2,7 +2,7 @@
 
 With version 43 Sketch introduced a completely new approach to its file structure. Eventually, .sketch file became compatible with .zip format, which technically allowed it to be extracted into a folder.
 
-##What to do with that?
+## What to do with that?
 
 Extracted Sketch file contains:
 *.png files in /images and /previews, which are pretty much screenshots of its artboards;
